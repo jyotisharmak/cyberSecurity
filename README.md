@@ -1,18 +1,18 @@
 # cyberSecurity
 
 Common Cybersecurity Threats and Attacks ::
-Malware
-Phishing
-Proxies
-Spyware
-Adware
-Botnets
-Spam
-Structured Query Language (SQL) injection
-Social engineering
-Data Breach
-Advanced Persistent Threats
-Insider threats
+Malware<br/>
+Phishing<br/>
+Proxies<br/>
+Spyware<br/>
+Adware<br/>
+Botnets<br/>
+Spam<br/>
+Structured Query Language (SQL) injection<br/>
+Social engineering<br/>
+Data Breach<br/>
+Advanced Persistent Threats<br/>
+Insider threats<br/>
 
 
 The most common software security vulnerabilities include:
