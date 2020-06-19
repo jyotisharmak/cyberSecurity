@@ -1,0 +1,157 @@
+Akamai Products
+
+1) WEB APPLICATION
+Edge Web Application firewall(WAF) and DDoS protection
+
+a)  Kona Site Defender
+Features
+1) Customizable and Automated Protection
+2)Advanced API Security
+3)Highest Accuracy
+4)Protect Every App, Anywhere
+5)Manage Your WAF, Your Way
+Benefits
+Reduces risks of downtime, data theft and website defacement
+Protects against the largest DoS and DDoS attacks
+Protects against web attacks such as SQL injection, XSS and RFI
+https://www.akamai.com/us/en/products/security/kona-site-defender.jsp
+
+b)  Page Integrity Manager
+Strengthen web page integrity by detecting and mitigating script vulnerabilities
+Increase visibility into third-party scripts
+Stop web skimming, formjacking, and Magecart attacks
+https://www.akamai.com/us/en/products/security/page-integrity-manager.jsp
+
+c)  Client Reputation
+Additional layer of defense for Kona Site Defender based on recent client behavior
+Leverages Akamai’s visibility into attacks against other customers
+
+https://www.akamai.com/us/en/products/security/client-reputation.jsp
+
+d)  Web Application Protector
+Reduces risks of downtime, data theft, and website defacement
+Protects against web attacks and DDoS
+Implements rule updates automatically
+https://www.akamai.com/us/en/products/security/web-application-protector-enterprise-waf-firewall-ddos-protection.jsp
+**********************************************************************************************************************
+
+
+2)Secure Enterprise Access - Application Access Redefined: Secure, Simple, Fast
+
+a) Enterprise Application Access
+Centralize your security and access control
+Keep all users off of your network and make your applications invisible to the Internet
+Complete auditing and reporting of user activity
+
+https://www.akamai.com/us/en/products/security/enterprise-application-access.jsp
+
+b) Enterprise Threat Protector - Proactive protection against zero-day malware and phishing
+Get proactive protection vs. reactive mitigation
+Instant protection without complexity or hardware
+Quick and uniform enforcement of Acceptable Use Policy
+
+https://www.akamai.com/us/en/products/security/enterprise-threat-protector.jsp
+***********************************************************************************************************************
+
+
+3)Data Centers
+a)Prolexic Routed -Fastest DDoS Mitigation of Terabit Scale Attacks
+-Reduces business risks posed by the threat of DDoS attack
+-Maintains availability of Internet-facing applications
+-Fast mitigation by Akamai’s 24x7 SOC, with time-to-mitigate SLA
+
+https://www.akamai.com/us/en/products/security/prolexic-solutions.jsp
+
+
+b)Enterprise Threat Protector-Proactive protection against zero-day malware and phishing
+-Get proactive protection vs. reactive mitigation
+-Instant protection without complexity or hardware
+-Quick and uniform enforcement of Acceptable Use Policy
+
+https://www.akamai.com/us/en/products/security/enterprise-threat-protector.jsp
+************************************************************************************************************************************
+
+5)Zero Trust
+a)Zero Trust Security - Users, devices, applications, and data are moving outside of the enterprise perimeter and zone of control
+-New business processes driven by digital transformation increase risk exposure
+-“Trust but verify” is no longer an option, as targeted, advanced threats are moving inside the corporate perimeter
+-Traditional perimeters are complex, increase risk, and are no longer compatible with today’s business models
+
+https://www.akamai.com/us/en/solutions/security/zero-trust-security-model.jsp
+**********************************************************************************************************************************************
+
+6)Malware and Phishing
+Enterprise Threat Protector -Proactive protection against zero-day malware and phishing
+
+Get proactive protection vs. reactive mitigation
+Instant protection without complexity or hardware
+Quick and uniform enforcement of Acceptable Use Policy
+
+https://www.akamai.com/us/en/products/security/enterprise-threat-protector.jsp
+**************************************************************************************************************************************************
+7)DNS Services
+a)Edge DNS- Gain peace of mind by extending your DNS to the edge, with high availability and performance, and resilience against DDoS attacks backed by a 100% uptime SLA.
+Optimizes DNS availability and performance globally
+Provides resilience against the largest DDoS attacks
+Prevents DNS spoofing and hijacking with DNSSEC
+
+https://www.akamai.com/us/en/products/security/edge-dns.jsp
+
+b)Kona DDoS Defender -Managed DDoS protection service for critical websites and web applications
+Reduces risk of downtime for critical websites
+Protects against the largest DoS and DDoS attacks
+Fast mitigation by Akamai’s 24x7 security operations center
+https://www.akamai.com/us/en/products/security/kona-ddos-defender.jsp
+
+
+
+c)Site Shield-Origin defense by cloaking websites and web infrastructure
+Ensures web traffic goes through the Akamai Intelligent Platform
+Complements Kona DDoS Defender to help prevent attackers from targeting the origin
+
+https://www.akamai.com/us/en/products/security/site-shield.jsp
+
+
+d)DNS Security and Services - You rely on your DNS for business and customer transactions, we help you make it fast, resilient and secure
+Our mapping system leverages DNS to ensure the fastest and highest quality delivery of Internet content
+Our DNS technology defends our customers against DDoS attacks and targeted threats, enables new revenue streams for ISPs, and helps cloud applications perform better
+Our recursive DNS solutions serve over 50 million Internet subscribers for many of the world’s largest ISPs and protect enterprises from targeted threats
+
+https://www.akamai.com/us/en/solutions/security/dns-security-services.jsp
+************************************************************************************************************************************************************
+
+8)APIs
+API Capabilities - Scale, protect, and manage APIs
+Leverage a unique set of API-specific capabilities designed to provide performance, scale, offload, and reliability
+Real-time data collected by Akamai selects an optimal path between your origin infrastructure and the Akamai Edge servers, while proprietary techniques are used to avoid Internet congestion points and unnecessarily long routes
+Apply rate controls to API requests, as well as inspect JSON and XML API calls in order to ensure your web server remains available and the data on it is secure
+
+https://www.akamai.com/us/en/solutions/performance/apis.jsp
+******************************************************************************************************************************
+
+9)Bot Management & Credential Stuffing
+Bot Manager - Stop the most sophisticated bots
+Provides visibility into the amount of bot traffic accessing your site
+Improves user experience by reducing the impact of bots on the web during peak traffic hours
+Prevents price and content scraping
+
+https://www.akamai.com/us/en/products/security/bot-manager.jsp
+*******************************************************************************************************************************
+10)Video & Online Properties
+Scalable Cloud Security-Deliver flawless and uninterrupted viewing experiences, with secure content, applications, sites and data
+Proactively augment your existing infrastructure with security measures in the cloud for a more robust web security posture
+Cloud-based security offers greater scale and capacity to protect your CDN from even the largest DDoS attack
+Stop threats at the edge – with zero impact on your website performance or the quality of your digital experiences
+
+https://www.akamai.com/us/en/campaign/scalable-cloud-security-neutralize-threats.jsp
+
+*********************************************************************************************************************************
+11)Customer Identity & Access Management
+Identity Cloud - Mission-critical customer identity and access management to provide trusted digital experiences for end users
+Provides a highly-secure and resilient environment for collecting and storing sensitive user information
+Safeguards against malicious activities including fraudulent accounts and credential compromise
+Enables brands to establish and maintain digital trust with their customers
+https://www.akamai.com/us/en/products/security/identity-cloud.jsp
+	
+
+
